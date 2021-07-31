@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dlwlehd
-- 👀 I’m interested in ... PS
-- 🌱 I’m currently learning ... PS with C++
+^__^
 
 <!---
 dlwlehd/dlwlehd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
