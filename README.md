@@ -6,5 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwlehd)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dltkdgns830})](https://solved.ac/{dltkdgns830})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dltkdgns830})](https://solved.ac/{dltkdgns830})
+
