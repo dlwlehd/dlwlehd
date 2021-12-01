@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgns830)](https://solved.ac/dltkdgns830)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={dltkdgns830}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dltkdgns830&theme=warm)
